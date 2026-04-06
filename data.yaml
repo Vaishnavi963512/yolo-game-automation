@@ -1,0 +1,5 @@
+train: dataset/images
+val: dataset/images
+
+nc: 2
+names: ['helmet', 'no_helmet']
