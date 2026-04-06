@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/af887548-7642-42f8-ac20-f6b90a7037b6
+
 # 🎮 YOLO Game Automation System
 
 This project is a Computer Vision-based automation system that uses YOLO and OpenCV to detect objects in a game environment and automate data collection.
